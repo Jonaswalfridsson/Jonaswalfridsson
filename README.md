@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jonaswalfridsson
-- 👀 As a Speech and language Pathologist I’m interested in math difficulties and dyscalculia....
-- 🌱 I’m currently learning to keep my website for my lecturing activities updated ...
-- 💞️ I’m looking to collaborate on lecturing or any project around math difficulties and dyscalculia.......
-- 📫 How to reach me, check out my webpage...
+👋 Hi, I’m @Jonaswalfridsson
+👀 As a Speech and Language Pathologist, I’m interested in math difficulties and dyscalculia.
+🌱 I’m currently learning how to keep my website for my lecturing activities updated.
+💞️ I’m looking to collaborate on lecturing or any projects related to math difficulties and dyscalculia.
+📫 To reach me, check out my webpage jonaswalfridsson.se
 
 <!---
 Jonaswalfridsson/Jonaswalfridsson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
