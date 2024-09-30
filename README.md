@@ -1,4 +1,4 @@
-👋 Hi, I’m @Jonaswalfridsson
+👋 Hi, I’m @Jonaswalfridsson...
 👀 As a Speech and Language Pathologist, I’m interested in math difficulties and dyscalculia.
 🌱 I’m currently learning how to keep my website for my lecturing activities updated.
 💞️ I’m looking to collaborate on lecturing or any projects related to math difficulties and dyscalculia.
